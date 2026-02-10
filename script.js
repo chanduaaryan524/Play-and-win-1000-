@@ -55,7 +55,6 @@
 */
 const messages = [
     "Are you sure?",
-    "Really sure??",
     "Phir bike pe chalengi?",
     "Wait! What if I promise to drive really slow on the bike this time? Still no?",
     "Just think about Mumbai airport plan Prazz",
