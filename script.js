@@ -57,11 +57,11 @@ const messages = [
     "Are you sure?",
     "Phir bike pe chalengi?",
     "Wait! What if I promise to drive really slow on the bike this time? Still no?",
-    "Just think about Mumbai airport plan Prazz",
-    "Is this because of my Hindi? I apologized already!.",
     "Final offer: Say yes, and we can make Pune a feeling all over again",
-    "Last try: I’m not looking for a Bollywood ending, just a genuine 'Yes'. Pretty please?",
+    "Last try: I’m not looking for a Bollywood ending, give a 'Yes'. Pretty please?",
+    "Is this because of my Hindi? I apologized already!.",
     "I wrote 5 pages with bad handwriting for this?",
+    "Just think about Mumbai airport plan Prazz",
     "Okay, I’m out of lines... but I’m not out of feelings,say yes please! ❤️"
 ];
 
